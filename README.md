@@ -7,9 +7,7 @@
 
 ‎2.‎	Authentication Log Investigation
 
-‎3.‎	Intrusion Detection Monitor
-
-‎4.‎	USB Activity Challenge
+‎3.‎	USB Activity Challenge
 
 # Apache Logs:‎ 
  
@@ -116,7 +114,6 @@ After examining all the files and finding nothing of interest, we decided to che
 
 ‎4.‎	Lost Friend
 
-‎5.‎	Search in the Jungle
 
 ‎ ‎
 # Big lizard : ‎
