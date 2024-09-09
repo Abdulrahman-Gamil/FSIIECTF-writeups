@@ -2,7 +2,7 @@
 
  ![image](https://github.com/user-attachments/assets/a0ced165-496b-4283-a9e1-353a00106dfa)
  
-# Here are four forensic challenges:‎
+# Here are three forensic challenges:‎
 ‎1.‎	Apache Log Analysis
 
 ‎2.‎	Authentication Log Investigation
@@ -104,7 +104,7 @@ After examining all the files and finding nothing of interest, we decided to che
 
  ![image](https://github.com/user-attachments/assets/c3c2c2f2-e63b-45ab-acdb-6d75e1a6e827)
 
-# Here are five OSINT challenges:‎
+# Here are four OSINT challenges:‎
 
 ‎1.‎	Big Lizard 
 
